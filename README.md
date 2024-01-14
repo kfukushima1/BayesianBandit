@@ -4,6 +4,7 @@ This project illustrates the Bayesian bandit algorithm (also known as Thompson s
 
 ## Contents
 **Bayesian_bandit_email_timing_experiment.ipynb**: Contains the Byesian Bandit algorithm explaining how it learns the best strategy assuming the following purchase rates: 0.0001 for not sending an email, 0.05 for 30 minutes, 0.02 for 2 hours, 0.01 for 1 day, 0.01 for 3 days, and 0.001 for a week later. 
+
 **requirements.txt**: Shows necessary package versions to run the above file.
 
 ## Results
